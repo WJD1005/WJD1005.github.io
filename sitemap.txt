@@ -1,2 +1,5 @@
-http://example.com/2023/04/29/hello-world/
-http://example.com/
+https://wjd1005.github.io/categories/index.html
+https://wjd1005.github.io/link/index.html
+https://wjd1005.github.io/tags/index.html
+https://wjd1005.github.io/2023/04/29/hello-world/
+https://wjd1005.github.io/

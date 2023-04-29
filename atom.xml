@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>星云质心</title>
   
+  <subtitle>欢迎来到我的博客</subtitle>
+  <link href="https://wjd1005.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/atom.xml" rel="self"/>
-  
-  <link href="http://example.com/"/>
+  <link href="https://wjd1005.github.io/"/>
   <updated>2023-04-29T09:48:38.729Z</updated>
-  <id>http://example.com/</id>
+  <id>https://wjd1005.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>星云质心</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2023/04/29/hello-world/"/>
-    <id>http://example.com/2023/04/29/hello-world/</id>
+    <link href="https://wjd1005.github.io/2023/04/29/hello-world/"/>
+    <id>https://wjd1005.github.io/2023/04/29/hello-world/</id>
     <published>2023-04-29T09:48:38.728Z</published>
     <updated>2023-04-29T09:48:38.729Z</updated>
     
