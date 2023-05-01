@@ -1,5 +1,5 @@
+https://wjd1005.github.io/posts/76c00983/
 https://wjd1005.github.io/about/index.html
-https://wjd1005.github.io/posts/4a17b156/
 https://wjd1005.github.io/videos/index.html
 https://wjd1005.github.io/music/index.html
 https://wjd1005.github.io/images/index.html
@@ -8,3 +8,6 @@ https://wjd1005.github.io/link/index.html
 https://wjd1005.github.io/categories/index.html
 https://wjd1005.github.io/tags/index.html
 https://wjd1005.github.io/
+https://wjd1005.github.io/tags/%E6%95%85%E4%BA%8B/
+https://wjd1005.github.io/tags/%E7%8C%AB%E5%A8%98/
+https://wjd1005.github.io/categories/%E7%9F%AD%E7%AF%87%E6%95%85%E4%BA%8B/
